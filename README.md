@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyejabb&show_icons=true&locale=en&layout=compact" alt="eyejabb" /></p>
 
-<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyejabb&show_icons=true&locale=en" alt="eyejabb" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eyejabb&show_icons=true&locale=en" alt="eyejabb" /></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m8q1yecgdjahrwc6zel187sd6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=m8q1yecgdjahrwc6zel187sd6&redirect=true)
