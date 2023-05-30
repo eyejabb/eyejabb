@@ -24,4 +24,5 @@
 
 <h3 align="left">What I'nm Jamming To:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m8q1yecgdjahrwc6zel187sd6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=m8q1yecgdjahrwc6zel187sd6&redirect=true)
+
+<div align ="left">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m8q1yecgdjahrwc6zel187sd6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=m8q1yecgdjahrwc6zel187sd6&redirect=true)</div>
