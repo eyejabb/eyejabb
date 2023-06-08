@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Steven Fitzgerald</h1>
-<h3 align="center">A full-stack developer from Southern California</h3>
+<h1 align="center">Hi 👋, I'm Steven Fitzgerald!</h1>
+<h3 align="center">Full-stack developer from Southern California</h3>
 
 - 🔭 I’m currently working on [Community Focus, a community oriented Pomodoro timer.](https://github.com/CommunityFocus/CommunityFocus)
 
