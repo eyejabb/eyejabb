@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steven Fitzgerald!</h1>
 <h3 align="center">Full-stack developer from Southern California</h3>
 
-- 🔭 I’m currently working on [Community Focus, a community oriented Pomodoro timer.](https://github.com/CommunityFocus/CommunityFocus)
+- 🔭 I’m currently working on [Banki Brunch, a community oriented internal training application.](https://github.com/NickSramcik/banki-brunch)
 
 - 🌱 I’m currently learning **React**
 
